@@ -1,0 +1,3 @@
+﻿  Math.cpp
+C:\Users\rom1b\source\repos\PathFind\PathFind\Math.cpp(12,13): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  PathFind.vcxproj -> C:\Users\rom1b\source\repos\PathFind\x64\Debug\PathFind.exe
